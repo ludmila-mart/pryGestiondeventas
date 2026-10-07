@@ -19,5 +19,10 @@ namespace pryGestiondeventas
         {
 
         }
+
+        private void Gestion_de_Repuestos_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
